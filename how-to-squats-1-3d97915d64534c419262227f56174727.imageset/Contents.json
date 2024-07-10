@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "how-to-squats-1-3d97915d64534c419262227f56174727.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

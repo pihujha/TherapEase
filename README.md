@@ -1,2 +1,4 @@
 # TherapEase
-An ios app to help people who are going through Physical Therapy post an injury/surgery with their daily workouts and progress. The entire app is made on Xcode using Swift. My team and I started this project at Camp PolyHacks and won the competition.
+Spearheaded the creation of an iOS app designed to aid post-injury/surgery recovery with personalized daily workouts and progress monitoring.
+Utilized Xcode and Swift to develop a user-friendly platform, enhancing rehabilitation experiences for individuals.
+Presented the project at Camp PolyHacks, achieving the winning title.

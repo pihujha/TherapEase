@@ -27,8 +27,8 @@ Most fitness apps are built for people who are already healthy. TherapEase is bu
 
 ## Demo
 
-[Watch the demo video](ADD_YOUTUBE_URL_HERE)
+[[Watch the demo video](https://youtube.com/shorts/0sqbv9fcFNI?feature=share)]
 
-## Built by
+## Built by team TherapEase at Camp Poly Hacks
+Members: Pihu Jha, Sunishka Sharma, Isha Varrier, Bella Santos, Sameer Maheshvari, Dhanvi Ganti
 
-**Pihu Jha** · [pihu-jha.web.app](https://pihu-jha.web.app) · [linkedin.com/in/pihujha](https://linkedin.com/in/pihujha)
